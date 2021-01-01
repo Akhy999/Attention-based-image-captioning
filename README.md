@@ -14,17 +14,51 @@ Thus training the model on tuning the hyper parameters yielded in results with t
 
 Here are the few predictions from the model
 
-![Screenshot (106).png](/images/Screenshot%20(106).png)
+<p align="center">
+  Original Image
+</p>
+<p align="center">
+  <img src="/images/1897025969_0c41688fa6.jpg" width="350" title="original image">
+</p>
+<p align="center">
+  <img src="/images/Screenshot%20(106).png"  title="original image">
+</p>
+<p align="center">
+  Bleu-1 Score
+</p>
+<p align="center">
+  <img src="/images/Screenshot%20(109).png"  title="original image">
+</p>
 
-   Bleu-1 score
-![Screenshot (109).png](/images/Screenshot%20(109).png)
+<p align="center">
+  Original Image
+</p>
+<p align="center">
+  <img src="/images/3453259666_9ecaa8bb4b.jpg" width="350" title="original image">
+</p>
+<p align="center">
+  <img src="/images/Screenshot%20(107).png"  title="original image">
+</p>
+<p align="center">
+  Bleu-1 Score
+</p>
+<p align="center">
+  <img src="/images/Screenshot%20(110).png"  title="original image">
+</p>
 
-![Screenshot (106).png](/images/Screenshot%20(107).png)
+<p align="center">
+  Original Image
+</p>
+<p align="center">
+  <img src="/images/3220140234_e072856e6c.jpg" width="350" title="original image">
+</p>
+<p align="center">
+  <img src="/images/Screenshot%20(108).png"  title="original image">
+</p>
+<p align="center">
+  Bleu-1 Score
+</p>
+<p align="center">
+  <img src="/images/Screenshot%20(111).png"  title="original image">
+</p>
 
-   Bleu-1 score
-![Screenshot (109).png](/images/Screenshot%20(110).png)
-
-![Screenshot (106).png](/images/Screenshot%20(108).png)
-
-   Bleu-1 score
-![Screenshot (109).png](/images/Screenshot%20(111).png)
