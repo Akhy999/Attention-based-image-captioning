@@ -11,3 +11,6 @@ The decoder is a RNN based on GRUs
 The model is trained on the Flicker8k dataset containing 8091 images mapped to 40455 captions (5 each)
 
 Thus training the model on tuning the hyper parameters yielded in results with train loss of 0.012 and a test loss of 0.028 and the Bleu-1 score of 0.558 (Bleu : 0.13)
+
+![Alt text](./images/Screenshot (106).png)
+![Alt text](./images/Screenshot (109).png)
