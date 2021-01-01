@@ -1,5 +1,4 @@
 # Attention-based-image-captioning
-This is just a brief description
 
 The above code is regarding attention based image captioning
 
