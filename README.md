@@ -12,5 +12,16 @@ The model is trained on the Flicker8k dataset containing 8091 images mapped to 4
 
 Thus training the model on tuning the hyper parameters yielded in results with train loss of 0.012 and a test loss of 0.028 and the Bleu-1 score of 0.558 (Bleu : 0.13)
 
+Here are the few predictions from the model
+
 ![Screenshot (106).png](/images/Screenshot%20(106).png)
+ Bleu-1 score
 ![Screenshot (109).png](/images/Screenshot%20(109).png)
+
+![Screenshot (106).png](/images/Screenshot%20(107).png)
+ Bleu-1 score
+![Screenshot (109).png](/images/Screenshot%20(110).png)
+
+![Screenshot (106).png](/images/Screenshot%20(108).png)
+ Bleu-1 score
+![Screenshot (109).png](/images/Screenshot%20(111).png)
